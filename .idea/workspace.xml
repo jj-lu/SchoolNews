@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c55e3968-b601-48e8-8a8d-af1ba6c71a79" name="Default Changelist" comment="core05_13">
-      <change afterPath="$PROJECT_DIR$/src/core05_11/IntegerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core05_14/ObjectAnalyzer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core05_14/ObjectAnalyzerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core05_16/CopOfTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core_5_17/MethodTableTest.java" afterDir="false" />
+    <list default="true" id="c55e3968-b601-48e8-8a8d-af1ba6c71a79" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/core06_01/EmploySortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core06_01/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core06_03/TimePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core06_03/TimerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core06_04/CloneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core06_04/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javacore/core04_05/Constructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javacore/core04_05/Constructor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javacore/core04_05/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javacore/core04_05/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javacore/cpre04_01/CalendarTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core05_13/ReflectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core05_13/ReflectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core_5_17/MethodTableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core05_17/MethodTableTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,7 +29,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/core05_16/CopOfTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
+            <state relative-caret-position="396">
               <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -40,15 +38,76 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/core_5_17/MethodTableTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/core05_17/MethodTableTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            <state relative-caret-position="264">
+              <caret line="9" column="81" selection-start-line="9" selection-start-column="81" selection-end-line="9" selection-end-column="81" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#191#192#0" expanded="true" />
-                <element signature="e#215#216#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/core06_01/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="777">
+              <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/core06_01/EmploySortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/core06_04/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/core06_04/CloneTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/core06_03/TimePrinter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/core06_03/TimerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -83,6 +142,13 @@
         <option value="$PROJECT_DIR$/src/core05_14/ObjectAnalyzerTest.java" />
         <option value="$PROJECT_DIR$/src/core05_16/CopOfTest.java" />
         <option value="$PROJECT_DIR$/src/core_5_17/MethodTableTest.java" />
+        <option value="$PROJECT_DIR$/src/core_06_01/Employee.java" />
+        <option value="$PROJECT_DIR$/src/core_06_01/EmploySortTest.java" />
+        <option value="$PROJECT_DIR$/src/core06_03/TimePrinter.java" />
+        <option value="$PROJECT_DIR$/src/core06_03/TimerTest.java" />
+        <option value="$PROJECT_DIR$/src/core06_01/EmploySortTest.java" />
+        <option value="$PROJECT_DIR$/src/core06_04/Employee.java" />
+        <option value="$PROJECT_DIR$/src/core06_04/CloneTest.java" />
       </list>
     </option>
   </component>
@@ -99,6 +165,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,14 +183,12 @@
               <item name="javacore" type="b2602c69:ProjectViewProjectNode" />
               <item name="javacore" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="core_5_17" type="462c0819:PsiDirectoryNode" />
+              <item name="core06_04" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -148,7 +214,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MethodTableTest">
+  <component name="RunManager" selected="Application.CloneTest">
+    <configuration name="CloneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core06_04.CloneTest" />
+      <module name="javacore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="core06_04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CopOfTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="core05_16.CopOfTest" />
       <module name="javacore" />
@@ -162,12 +241,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="core05_11.IntegerTest" />
+    <configuration name="EmploySortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core06_01.EmploySortTest" />
       <module name="javacore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="core05_11.*" />
+          <option name="PATTERN" value="core06_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,11 +255,11 @@
       </method>
     </configuration>
     <configuration name="MethodTableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="core_5_17.MethodTableTest" />
+      <option name="MAIN_CLASS_NAME" value="core05_17.MethodTableTest" />
       <module name="javacore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="core_5_17.*" />
+          <option name="PATTERN" value="core05_17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,25 +267,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectAnalyzerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="core05_14.ObjectAnalyzerTest" />
+    <configuration name="TimerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core06_03.TimerTest" />
       <module name="javacore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="core05_14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReflectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="core05_13.ReflectionTest" />
-      <module name="javacore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="core05_13.*" />
+          <option name="PATTERN" value="core06_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,11 +282,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CloneTest" />
+        <item itemvalue="Application.TimerTest" />
+        <item itemvalue="Application.EmploySortTest" />
         <item itemvalue="Application.MethodTableTest" />
         <item itemvalue="Application.CopOfTest" />
-        <item itemvalue="Application.ObjectAnalyzerTest" />
-        <item itemvalue="Application.IntegerTest" />
-        <item itemvalue="Application.ReflectionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +317,11 @@
       <workItem from="1589803574534" duration="3796000" />
       <workItem from="1589891260391" duration="3487000" />
       <workItem from="1589977880179" duration="7133000" />
-      <workItem from="1590063479630" duration="5587000" />
+      <workItem from="1590063479630" duration="6591000" />
+      <workItem from="1590305099853" duration="597000" />
+      <workItem from="1590413290386" duration="3054000" />
+      <workItem from="1590505456187" duration="803000" />
+      <workItem from="1590510287759" duration="5637000" />
     </task>
     <task id="LOCAL-00001" summary="core05_13">
       <created>1589684981877</created>
@@ -260,16 +330,23 @@
       <option name="project" value="LOCAL" />
       <updated>1589684981877</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="反射的例子代码">
+      <created>1590074540107</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590074540107</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49793000" />
+    <option name="totallyTimeSpent" value="60888000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992928" visible="true" weight="0.21515892" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992928" visible="true" weight="0.22493887" />
       <window_info id="Structure" order="1" sideWeight="0.5007072" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -277,7 +354,7 @@
       <window_info id="Image Layers" order="5" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32922733" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32922733" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -305,7 +382,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="core05_13" />
-    <option name="LAST_COMMIT_MESSAGE" value="core05_13" />
+    <MESSAGE value="反射的例子代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="反射的例子代码" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/03-08/CompoundInterest.kt" />
@@ -400,9 +478,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/core06_03/TimePrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core06_03/TimerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core05_17/MethodTableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="9" column="81" selection-start-line="9" selection-start-column="81" selection-end-line="9" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/core05_16/CopOfTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
+        <state relative-caret-position="396">
           <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -410,15 +518,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/core_5_17/MethodTableTest.java">
+    <entry file="file://$PROJECT_DIR$/src/core06_01/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        <state relative-caret-position="777">
+          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core06_04/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core06_01/EmploySortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core06_04/CloneTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
         </state>
       </provider>
     </entry>
