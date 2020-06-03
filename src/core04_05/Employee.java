@@ -1,5 +1,6 @@
 package core04_05;
 
+
 import java.util.Random;
 
 public class Employee {
