@@ -19,16 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c55e3968-b601-48e8-8a8d-af1ba6c71a79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/core06_07/InnerClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core06_07/TalkingClock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core06_08/AnonymousinnerClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core06_08/TalkClock.java" afterDir="false" />
+    <list default="true" id="c55e3968-b601-48e8-8a8d-af1ba6c71a79" name="Default Changelist" comment="内部类，匿名内部类，">
+      <change afterPath="$PROJECT_DIR$/src/core06_09/Arraylg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core06_09/StaticInnerClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core06_10/ProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core06_10/TraceHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javacore/core03_08/CompoundInterest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javacore/core03_08/CompoundInterest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javacore/core03_09/LotteryArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javacore/core03_09/LotteryArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javacore/core04_05/Constructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javacore/core04_05/Constructor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javacore/core04_05/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javacore/core04_05/Employee.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +75,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application.AnonymousinnerClassTest">
+  <component name="RunManager" selected="Application.StaticInnerClassTest">
     <configuration name="AnonymousinnerClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="core06_08.AnonymousinnerClassTest" />
       <module name="javacore" />
@@ -99,19 +95,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="core04_01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="core04_05.Constructor" />
-      <module name="javacore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="core04_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +128,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LotteryArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="core03_09.LotteryArray" />
+    <configuration name="ProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core06_10.ProxyTest" />
       <module name="javacore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="core03_09.*" />
+          <option name="PATTERN" value="core06_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticInnerClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core06_09.StaticInnerClassTest" />
+      <module name="javacore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="core06_09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StaticInnerClassTest" />
+        <item itemvalue="Application.ProxyTest" />
         <item itemvalue="Application.AnonymousinnerClassTest" />
         <item itemvalue="Application.InnerClassTest" />
         <item itemvalue="Application.CalendarTest" />
-        <item itemvalue="Application.Constructor" />
-        <item itemvalue="Application.LotteryArray" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +184,8 @@
       <workItem from="1591271553759" duration="706000" />
       <workItem from="1591286416929" duration="25000" />
       <workItem from="1591360060180" duration="33000" />
-      <workItem from="1591620410619" duration="4624000" />
+      <workItem from="1591620410619" duration="5367000" />
+      <workItem from="1591701350836" duration="6825000" />
     </task>
     <task id="LOCAL-00001" summary="第三章数组">
       <created>1585840615731</created>
@@ -197,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585840615731</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="内部类，匿名内部类">
+      <created>1591632999821</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591632999821</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,17 +235,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第三章数组" />
-    <option name="LAST_COMMIT_MESSAGE" value="第三章数组" />
+    <MESSAGE value="内部类，匿名内部类" />
+    <option name="LAST_COMMIT_MESSAGE" value="内部类，匿名内部类" />
   </component>
   <component name="WindowStateProjectService">
     <state x="177" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591194513142">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="177" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1294.741@72.27.1294.741" timestamp="1591194513142" />
-    <state x="527" y="116" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1591621443686">
+    <state x="527" y="116" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1591713829862">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="527" y="116" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/72.27.1294.741@72.27.1294.741" timestamp="1591621443686" />
+    <state x="527" y="116" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/72.27.1294.741@72.27.1294.741" timestamp="1591713829862" />
     <state x="451" y="186" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591194509878">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
@@ -250,22 +255,22 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="501" y="157" width="424" height="491" key="FileChooserDialogImpl/72.27.1294.741@72.27.1294.741" timestamp="1591239932141" />
-    <state width="1240" height="167" key="GridCell.Tab.0.bottom" timestamp="1591632658162">
+    <state width="1240" height="167" key="GridCell.Tab.0.bottom" timestamp="1591634049095">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1240" height="167" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1591632658162" />
-    <state width="1240" height="167" key="GridCell.Tab.0.center" timestamp="1591632658161">
+    <state width="1240" height="167" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1591634049095" />
+    <state width="1240" height="167" key="GridCell.Tab.0.center" timestamp="1591634049095">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1240" height="167" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1591632658161" />
-    <state width="1240" height="167" key="GridCell.Tab.0.left" timestamp="1591632658160">
+    <state width="1240" height="167" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1591634049095" />
+    <state width="1240" height="167" key="GridCell.Tab.0.left" timestamp="1591634049095">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1240" height="167" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1591632658160" />
-    <state width="1240" height="167" key="GridCell.Tab.0.right" timestamp="1591632658161">
+    <state width="1240" height="167" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1591634049095" />
+    <state width="1240" height="167" key="GridCell.Tab.0.right" timestamp="1591634049095">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1240" height="167" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1591632658161" />
+    <state width="1240" height="167" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1591634049095" />
     <state x="516" y="27" width="395" height="741" key="RollbackChangesDialog" timestamp="1591632772751">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
@@ -274,6 +279,10 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="200" y="31" width="1037" height="737" key="SettingsEditor/72.27.1294.741@72.27.1294.741" timestamp="1591239957557" />
+    <state x="314" y="132" width="800" height="538" key="Vcs.Push.Dialog.v2" timestamp="1591633006313">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="314" y="132" width="800" height="538" key="Vcs.Push.Dialog.v2/72.27.1294.741@72.27.1294.741" timestamp="1591633006313" />
     <state x="406" y="173" width="616" height="456" key="git4idea.merge.GitPullDialog" timestamp="1591632784393">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
